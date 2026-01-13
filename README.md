@@ -35,5 +35,6 @@ This dashboard template (`.pbit`) allows you to quickly connect your own HR data
 ---
 
 ## 🖼️ Screenshots / Previews
+https://github.com/sarika-gavhane/HR-Analysis-Dashboard-/blob/main/Screenshot%202026-01-13%20122624.png
 
 
